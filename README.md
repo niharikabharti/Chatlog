@@ -19,12 +19,12 @@ Open index.html
 
 ## Technologies used:
 
-Visual Studio Code
+* Visual Studio Code
 
-Node JS
+* Node JS
 
-Express JS
+* Express JS
 
-Socket.io
+* Socket.io
 
-MongoDB
+* MongoDB
